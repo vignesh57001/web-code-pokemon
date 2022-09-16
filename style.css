@@ -1,0 +1,84 @@
+body{
+    background-color:bisque;
+    margin: 2px 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+img{
+    align-items: center;
+    margin: 5px 2px 5px 2px;
+  }
+  div{
+    text-align: center;
+  }
+  .charecters{
+    margin: 14px 0px;
+position: fixed;
+  }
+#texts{
+    
+    margin-right: 0px;
+    text-align:left;
+    font-size: 30px;
+    margin-top: 2px;
+    font-style: oblique;
+    font-weight:lighter
+}
+h1{
+    color:darkgreen;
+    font-size:50px;
+}
+input{
+    font-size: 25px;
+    border-radius: 5px;
+    margin-top:20px; 
+    margin-right: 1px;
+   
+
+}
+button{
+    font-size: 25px;
+    border-radius: 5px;
+    margin-top:20px; 
+    margin-left: 1px;
+    margin-bottom: 30px;
+}
+
+.card{
+    margin:5px 10px 10px 10px;
+}
+h4{
+    color: blue;
+}
+span{
+    color: crimson;
+}
+#p1{
+    color:blueviolet;
+    font-size: 22px;
+}
+#p2{
+    color:darkcyan;
+    font-size: 22px;
+}
+#p3{
+    color:blue;
+    font-size: 22px;
+}
+#p4{
+    color:rgb(13, 13, 75);
+    font-size: 22px;
+}
+#p5{
+    color:rgb(243, 8, 106);
+    font-size: 22px;
+}
+
+
+#charec{
+    font-size: 30px;
+    font-weight: 500;
+   }
+.col-md-9{
+    position: static;
+}
